@@ -1,4 +1,4 @@
-package br.com.design;
+package br.com.design.chainresponsibility;
 
 public class Item {
 
